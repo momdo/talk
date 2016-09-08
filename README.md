@@ -1,7 +1,7 @@
 過去に発表したスライド置き場
 ============================
 
-[![CC-BY-NC 4.0](http://img.shields.io/badge/license-CC-BY-NC%204.0.svg)][license]
+[![CC-BY-NC 4.0](http://img.shields.io/badge/license-CC-BY-NC%204.0-yellow.svg)][license]
 [license]: https://creativecommons.org/licenses/by-nc/4.0/deed.ja
 
 
