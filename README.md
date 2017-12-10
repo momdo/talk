@@ -8,3 +8,9 @@
 - 2016-10-29 <a href="https://github.com/momdo/talk/blob/master/webtalk_2016-10-29.pdf">CSS仕様を読んでみよう</a>＠<a href="https://taminc.doorkeeper.jp/events/52298">CSS Talk vol.1</a>
 - 2016-09-03 <a href="https://github.com/momdo/talk/blob/master/webtalk_2016-09-03.pdf">HTMLスナップショット2016</a>＠<a href="http://events.html5j.org/conference/2016/9/">HTML5 Conference 2016</a> 
 - 2016-02-20 <a href="https://github.com/momdo/talk/blob/master/webtalk_2016-02-20.pdf">Delta specの時代を紐解く</a>＠<a href="https://eventdots.jp/event/580343">第62回 HTML5とか勉強会スペシャル ― ブラウザ、次世代Web標準の最新動向とか</a> 
+
+## 共同発表物
+
+All Right Reserved.
+
+- 2017-11-11 <a href="https://docs.google.com/presentation/d/1U74164uPJsHQU12OcAeZPVwfwCzAWJy6hSPZyCxG8kM/edit#slide=id.p">アクセシビリティ・ガイドラインの歩き方（初心者編）</a>＠<a href="https://japan-a11y-conf.com/">Japan Accessibility Conference</a>
