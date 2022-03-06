@@ -3,6 +3,7 @@
 
 <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.ja">![CC-BY-NC 4.0](http://img.shields.io/badge/license-CC%20BY%20NC%204.0-yellow.svg)</a>
 
+- 2022-02-17 [WAI-ARIAディープダイブ](https://docs.google.com/presentation/d/1-PFlZmyXvtVRNkYGY8PL9E-qH8uRbMZxH7bV-2qz3rQ/edit#slide=id.p)＠[WAI\-ARIA勉強会](https://markuplint.connpass.com/event/237495/)
 - 2018-10-12 <a href="https://github.com/momdo/talk/blob/master/webtalk_2018-10-12.pdf">alt遣いに大切なこと</a>＠<a href="https://connpass.com/event/102037/">第3回 京都でウェブアクセシビリティたいらげ会</a>
 - 2017-03-18 <a href="https://github.com/momdo/talk/blob/master/webtalk_2017-03-18.pdf">HTMLスナップショット2016改</a>＠<a href="http://kfug.jp/frontconf2017/">FRONTEND CONFERENCE 2017 | 関西フロントエンドUG</a>
 - 2016-12-17 <a href="https://github.com/momdo/talk/blob/master/webtalk_2016-12-17.pdf">マークアップの書籍の話</a>＠<a href="https://758markup.doorkeeper.jp/events/54593">名古屋マークアップ勉強会 12/17</a>
